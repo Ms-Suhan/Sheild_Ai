@@ -10,7 +10,7 @@
 ## App configuration
 ## -------------------------------
 #st.set_page_config(
-    #page_title="Shelid AI | Spam Detector",
+    #page_title="S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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helid AI | Spam Detector",
     #page_icon="📩",
     #layout="centered"
 #)
@@ -496,7 +496,7 @@ st.markdown("""
 <div class="brand">
     <div class="brand-icon">✉</div>
     <div>
-        <div class="brand-name">Shelid AI</div>
+        <div class="brand-name">Shield AI</div>
         <div class="brand-caption">Message Intelligence</div>
     </div>
 </div>
