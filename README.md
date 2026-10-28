@@ -1,4 +1,4 @@
-# Shelid AI — SMS Spam Detector
+# Shield AI — SMS Spam Detector
 
 A machine-learning web application that classifies SMS messages as **spam** or **not spam**. Built with Python, Streamlit, and scikit-learn, Shelid AI provides a simple interface for checking suspicious messages.
 
