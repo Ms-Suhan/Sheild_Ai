@@ -149,7 +149,7 @@ from nltk.stem.porter import PorterStemmer
 # Configuration
 # --------------------------------------------------
 st.set_page_config(
-    page_title="Shelid AI | Spam Intelligence",
+    page_title="Shield AI | Spam Intelligence",
     page_icon="📩",
     layout="wide",
     initial_sidebar_state="collapsed",
