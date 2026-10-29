@@ -145,6 +145,11 @@ import streamlit as st
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
+import nltk
+
+nltk.download("punkt_tab", quiet=True)
+nltk.download("punkt", quiet=True)
+nltk.download("stopwords", quiet=True)
 # --------------------------------------------------
 # Configuration
 # --------------------------------------------------
